@@ -2,7 +2,7 @@
 
 DriftChat is a modern, real-time chat application built with Node.js and Socket.IO, featuring a sleek dark-themed UI. It enables users to engage in instant messaging with a beautiful, responsive interface.
 
-![DriftChat Preview](public/logo.svg)
+<img src="public/logo.svg" alt="DriftChat Logo" width="150">
 
 ## ✨ Features
 
